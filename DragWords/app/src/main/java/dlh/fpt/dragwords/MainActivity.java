@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.loibv.dragwords.R;
+import dlh.fpt.dragwords.R;
 
 public class MainActivity extends AppCompatActivity {
 
