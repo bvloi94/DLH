@@ -1,9 +1,11 @@
-package com.example.loibv.dragwords;
+package dlh.fpt.dragwords;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.loibv.dragwords.R;
 
 public class MainActivity extends AppCompatActivity {
 

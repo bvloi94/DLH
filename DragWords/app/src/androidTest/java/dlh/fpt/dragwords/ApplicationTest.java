@@ -1,4 +1,4 @@
-package com.example.loibv.dragwords;
+package dlh.fpt.dragwords;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
